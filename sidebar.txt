@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xri:home|Door43 (xri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xri|d43-xri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xri/archive/master.zip|d43-xri.zip]]
+
+**Recent Changes**
+{{changes>ns = xri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xri|Ethnologue data]]
+
